@@ -324,19 +324,6 @@ with OBSController(password="your_password") as obs:
 
 ---
 
-## 贡献指南
-
-贡献让这个项目变得更好！欢迎提交 Issue 和 Pull Request。
-
-### 开发环境搭建
-
-```bash
-git clone https://github.com/chunbosama/obsws-python-helper.git
-cd obsws-python-helper
-pip install obsws-python
-```
-
-
 
 ### 许可证
 
