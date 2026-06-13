@@ -336,57 +336,15 @@ cd obsws-python-helper
 pip install obsws-python
 ```
 
-### 提交流程
 
-1. **Fork 本仓库**
-2. **创建功能分支**
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **提交改动**
-   ```bash
-   git commit -m "feat: 添加 xxx 功能"
-   ```
-4. **推送到 Fork**
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. **提交 Pull Request**
 
-### 代码规范
-
-- 遵循 [PEP 8](https://pep8.org/) 代码风格
-- 方法需添加 docstring（中文或英文均可）
-- 异常处理需使用 `OBSSDKRequestError` 捕获并记录日志
-- 新功能需包含对应的使用示例
-
-### 提交信息规范
-
-建议使用 [Conventional Commits](https://www.conventionalcommits.org/) 格式：
-
-```
-feat: 添加虚拟摄像头控制功能
-fix: 修复场景项 ID 获取失败的问题
-docs: 更新 README 安装步骤
-refactor: 重构事件回调注册逻辑
-```
-
-### 问题反馈
-
-遇到问题或有功能建议，请通过以下方式反馈：
-
-- 提交 [Issue](https://github.com/chunbosama/obsws-python-helper/issues)
-- 描述问题现象、复现步骤及预期行为
-
----
-
-## 许可证
+#＃# 许可证
 
 本项目采用 [MIT 许可证](LICENSE)，详情请参阅 LICENSE 文件。
 
 ---
 
-## 相关链接
+#＃# 相关链接
 
 - [OBS Studio 官网](https://obsproject.com/)
 - [OBS WebSocket 协议文档](https://github.com/obsproject/obs-websocket/blob/master/docs/generated/protocol.md)
