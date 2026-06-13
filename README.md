@@ -338,13 +338,13 @@ pip install obsws-python
 
 
 
-#＃# 许可证
+### 许可证
 
 本项目采用 [MIT 许可证](LICENSE)，详情请参阅 LICENSE 文件。
 
 ---
 
-#＃# 相关链接
+### 相关链接
 
 - [OBS Studio 官网](https://obsproject.com/)
 - [OBS WebSocket 协议文档](https://github.com/obsproject/obs-websocket/blob/master/docs/generated/protocol.md)
